@@ -1,0 +1,58 @@
+{
+  "company": {
+    "paired_t_test": {
+      "t_statistic": -1.1373,
+      "p_value": 0.257305,
+      "significant_0.05": false,
+      "significant_0.01": false
+    },
+    "cohens_d": -0.1049803768085995,
+    "mann_whitney_u": {
+      "u_statistic": 9818.0,
+      "p_value": 0.293302,
+      "significant_0.05": false
+    }
+  },
+  "address": {
+    "paired_t_test": {
+      "t_statistic": -0.8395,
+      "p_value": 0.402604,
+      "significant_0.05": false,
+      "significant_0.01": false
+    },
+    "cohens_d": -0.06787109335076508,
+    "mann_whitney_u": {
+      "u_statistic": 10159.0,
+      "p_value": 0.620828,
+      "significant_0.05": false
+    }
+  },
+  "date": {
+    "paired_t_test": {
+      "t_statistic": -3.8936,
+      "p_value": 0.000151,
+      "significant_0.05": true,
+      "significant_0.01": true
+    },
+    "cohens_d": -0.3976629244861406,
+    "mann_whitney_u": {
+      "u_statistic": 8592.0,
+      "p_value": 0.000173,
+      "significant_0.05": true
+    }
+  },
+  "total": {
+    "paired_t_test": {
+      "t_statistic": -2.7303,
+      "p_value": 0.007119,
+      "significant_0.05": true,
+      "significant_0.01": true
+    },
+    "cohens_d": -0.2745266180865648,
+    "mann_whitney_u": {
+      "u_statistic": 9049.5,
+      "p_value": 0.03706,
+      "significant_0.05": true
+    }
+  }
+}

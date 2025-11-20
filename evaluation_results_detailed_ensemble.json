@@ -1,0 +1,4858 @@
+{
+  "tesseract": {
+    "field_results": {
+      "company": [
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9836065573770492,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.76,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9444444444444444,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.972972972972973,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.45714285714285713,
+          "correct": false
+        },
+        {
+          "similarity": 0.78125,
+          "correct": false
+        },
+        {
+          "similarity": 0.7111111111111111,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8307692307692308,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9743589743589743,
+          "correct": true
+        },
+        {
+          "similarity": 0.6976744186046512,
+          "correct": false
+        },
+        {
+          "similarity": 0.6976744186046512,
+          "correct": false
+        },
+        {
+          "similarity": 0.6976744186046512,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9130434782608695,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.2857142857142857,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.8285714285714286,
+          "correct": true
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.8787878787878788,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.8285714285714286,
+          "correct": true
+        },
+        {
+          "similarity": 0.5517241379310345,
+          "correct": false
+        },
+        {
+          "similarity": 0.7837837837837838,
+          "correct": false
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.5084745762711864,
+          "correct": false
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.9090909090909091,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9743589743589743,
+          "correct": true
+        },
+        {
+          "similarity": 0.13636363636363635,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9655172413793104,
+          "correct": true
+        },
+        {
+          "similarity": 0.9545454545454546,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.96,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.5151515151515151,
+          "correct": false
+        },
+        {
+          "similarity": 0.5151515151515151,
+          "correct": false
+        },
+        {
+          "similarity": 0.46153846153846156,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8484848484848485,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8615384615384616,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.8888888888888888,
+          "correct": true
+        },
+        {
+          "similarity": 0.711864406779661,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        }
+      ],
+      "address": [
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 0.1891891891891892,
+          "correct": false
+        },
+        {
+          "similarity": 0.18867924528301888,
+          "correct": false
+        },
+        {
+          "similarity": 0.125,
+          "correct": false
+        },
+        {
+          "similarity": 0.20454545454545456,
+          "correct": false
+        },
+        {
+          "similarity": 0.1978021978021978,
+          "correct": false
+        },
+        {
+          "similarity": 0.6782608695652174,
+          "correct": false
+        },
+        {
+          "similarity": 0.4946236559139785,
+          "correct": false
+        },
+        {
+          "similarity": 0.6434782608695652,
+          "correct": false
+        },
+        {
+          "similarity": 0.22388059701492538,
+          "correct": false
+        },
+        {
+          "similarity": 0.7017543859649122,
+          "correct": false
+        },
+        {
+          "similarity": 0.9494949494949495,
+          "correct": true
+        },
+        {
+          "similarity": 0.42696629213483145,
+          "correct": false
+        },
+        {
+          "similarity": 0.42696629213483145,
+          "correct": false
+        },
+        {
+          "similarity": 0.06818181818181818,
+          "correct": false
+        },
+        {
+          "similarity": 0.45614035087719296,
+          "correct": false
+        },
+        {
+          "similarity": 0.44680851063829785,
+          "correct": false
+        },
+        {
+          "similarity": 0.20689655172413793,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.5538461538461539,
+          "correct": false
+        },
+        {
+          "similarity": 0.6434782608695652,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.1797752808988764,
+          "correct": false
+        },
+        {
+          "similarity": 0.4745762711864407,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.11650485436893204,
+          "correct": false
+        },
+        {
+          "similarity": 0.24793388429752067,
+          "correct": false
+        },
+        {
+          "similarity": 0.390625,
+          "correct": false
+        },
+        {
+          "similarity": 0.26666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.42592592592592593,
+          "correct": false
+        },
+        {
+          "similarity": 0.5205479452054794,
+          "correct": false
+        },
+        {
+          "similarity": 0.2153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.26804123711340205,
+          "correct": false
+        },
+        {
+          "similarity": 0.31496062992125984,
+          "correct": false
+        },
+        {
+          "similarity": 0.6301369863013698,
+          "correct": false
+        },
+        {
+          "similarity": 0.09259259259259259,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.5396825396825397,
+          "correct": false
+        },
+        {
+          "similarity": 0.45588235294117646,
+          "correct": false
+        },
+        {
+          "similarity": 0.7547169811320755,
+          "correct": false
+        },
+        {
+          "similarity": 0.1728395061728395,
+          "correct": false
+        },
+        {
+          "similarity": 0.1728395061728395,
+          "correct": false
+        },
+        {
+          "similarity": 0.1728395061728395,
+          "correct": false
+        },
+        {
+          "similarity": 0.1941747572815534,
+          "correct": false
+        },
+        {
+          "similarity": 0.32558139534883723,
+          "correct": false
+        },
+        {
+          "similarity": 0.12048192771084337,
+          "correct": false
+        },
+        {
+          "similarity": 0.28125,
+          "correct": false
+        },
+        {
+          "similarity": 0.06896551724137931,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.45871559633027525,
+          "correct": false
+        },
+        {
+          "similarity": 0.4948453608247423,
+          "correct": false
+        },
+        {
+          "similarity": 0.5050505050505051,
+          "correct": false
+        },
+        {
+          "similarity": 0.1836734693877551,
+          "correct": false
+        },
+        {
+          "similarity": 0.16326530612244897,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.21052631578947367,
+          "correct": false
+        },
+        {
+          "similarity": 0.5142857142857142,
+          "correct": false
+        },
+        {
+          "similarity": 0.4946236559139785,
+          "correct": false
+        },
+        {
+          "similarity": 0.10416666666666667,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.336,
+          "correct": false
+        },
+        {
+          "similarity": 0.22429906542056074,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6329113924050633,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.1917808219178082,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.49230769230769234,
+          "correct": false
+        },
+        {
+          "similarity": 0.46017699115044247,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.41739130434782606,
+          "correct": false
+        },
+        {
+          "similarity": 0.18018018018018017,
+          "correct": false
+        },
+        {
+          "similarity": 0.47692307692307695,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.5420560747663551,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.4691358024691358,
+          "correct": false
+        },
+        {
+          "similarity": 0.41739130434782606,
+          "correct": false
+        },
+        {
+          "similarity": 0.09900990099009901,
+          "correct": false
+        },
+        {
+          "similarity": 0.5048543689320388,
+          "correct": false
+        },
+        {
+          "similarity": 0.7297297297297297,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.6086956521739131,
+          "correct": false
+        },
+        {
+          "similarity": 0.49612403100775193,
+          "correct": false
+        },
+        {
+          "similarity": 0.11214953271028037,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.5842696629213483,
+          "correct": false
+        },
+        {
+          "similarity": 0.5833333333333334,
+          "correct": false
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.38461538461538464,
+          "correct": false
+        },
+        {
+          "similarity": 0.5046728971962616,
+          "correct": false
+        },
+        {
+          "similarity": 0.41904761904761906,
+          "correct": false
+        },
+        {
+          "similarity": 0.6306306306306306,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.1,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.1,
+          "correct": false
+        },
+        {
+          "similarity": 0.11764705882352941,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.23853211009174313,
+          "correct": false
+        },
+        {
+          "similarity": 0.3614457831325301,
+          "correct": false
+        },
+        {
+          "similarity": 0.31683168316831684,
+          "correct": false
+        },
+        {
+          "similarity": 0.21153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.20754716981132076,
+          "correct": false
+        },
+        {
+          "similarity": 0.6363636363636364,
+          "correct": false
+        },
+        {
+          "similarity": 0.4482758620689655,
+          "correct": false
+        },
+        {
+          "similarity": 0.12987012987012986,
+          "correct": false
+        },
+        {
+          "similarity": 0.19047619047619047,
+          "correct": false
+        },
+        {
+          "similarity": 0.20754716981132076,
+          "correct": false
+        }
+      ],
+      "date": [
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9090909090909091,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9090909090909091,
+          "correct": true
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.375,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.7,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.1111111111111111,
+          "correct": false
+        },
+        {
+          "similarity": 0.8888888888888888,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.7777777777777778,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.875,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        }
+      ],
+      "total": [
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.36363636363636365,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.3333333333333333,
+          "correct": false
+        },
+        {
+          "similarity": 0.3333333333333333,
+          "correct": false
+        },
+        {
+          "similarity": 0.18181818181818182,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.9090909090909091,
+          "correct": true
+        },
+        {
+          "similarity": 0.36363636363636365,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 0.8333333333333334,
+          "correct": true
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.5454545454545454,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.36363636363636365,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.3333333333333333,
+          "correct": false
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.3333333333333333,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.3076923076923077,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.36363636363636365,
+          "correct": false
+        },
+        {
+          "similarity": 0.18181818181818182,
+          "correct": false
+        },
+        {
+          "similarity": 0.8333333333333334,
+          "correct": true
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.18181818181818182,
+          "correct": false
+        },
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.18181818181818182,
+          "correct": false
+        },
+        {
+          "similarity": 0.46153846153846156,
+          "correct": false
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        }
+      ]
+    },
+    "statistics": {
+      "company": {
+        "accuracy": 0.3804,
+        "accuracy_std": 0.4328,
+        "accuracy_min": 0.0,
+        "accuracy_max": 1.0,
+        "accuracy_median": 0.0,
+        "correct_count": 45,
+        "correct_percentage": 31.03,
+        "incorrect_count": 100,
+        "n_samples": 145,
+        "iqr": [
+          0.0,
+          0.8484848484848485
+        ]
+      },
+      "address": {
+        "accuracy": 0.3846,
+        "accuracy_std": 0.2202,
+        "accuracy_min": 0.0,
+        "accuracy_max": 0.9495,
+        "accuracy_median": 0.4,
+        "correct_count": 1,
+        "correct_percentage": 0.69,
+        "incorrect_count": 144,
+        "n_samples": 145,
+        "iqr": [
+          0.18867924528301888,
+          0.6086956521739131
+        ]
+      },
+      "date": {
+        "accuracy": 0.7939,
+        "accuracy_std": 0.3804,
+        "accuracy_min": 0.0,
+        "accuracy_max": 1.0,
+        "accuracy_median": 1.0,
+        "correct_count": 113,
+        "correct_percentage": 77.93,
+        "incorrect_count": 32,
+        "n_samples": 145,
+        "iqr": [
+          0.9,
+          1.0
+        ]
+      },
+      "total": {
+        "accuracy": 0.5751,
+        "accuracy_std": 0.3009,
+        "accuracy_min": 0.0,
+        "accuracy_max": 1.0,
+        "accuracy_median": 0.5,
+        "correct_count": 45,
+        "correct_percentage": 31.03,
+        "incorrect_count": 100,
+        "n_samples": 145,
+        "iqr": [
+          0.36363636363636365,
+          0.9090909090909091
+        ]
+      }
+    },
+    "files_processed": 147
+  },
+  "paddle": {
+    "field_results": {
+      "company": [
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.76,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.875,
+          "correct": true
+        },
+        {
+          "similarity": 0.7441860465116279,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8307692307692308,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.6976744186046512,
+          "correct": false
+        },
+        {
+          "similarity": 0.6976744186046512,
+          "correct": false
+        },
+        {
+          "similarity": 0.6976744186046512,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9333333333333333,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.7777777777777778,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.2857142857142857,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.8285714285714286,
+          "correct": true
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.5517241379310345,
+          "correct": false
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 0.5084745762711864,
+          "correct": false
+        },
+        {
+          "similarity": 0.8450704225352113,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9655172413793104,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.4230769230769231,
+          "correct": false
+        },
+        {
+          "similarity": 0.41509433962264153,
+          "correct": false
+        },
+        {
+          "similarity": 0.45454545454545453,
+          "correct": false
+        },
+        {
+          "similarity": 0.5151515151515151,
+          "correct": false
+        },
+        {
+          "similarity": 0.45454545454545453,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8615384615384616,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.711864406779661,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.9655172413793104,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        }
+      ],
+      "address": [
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 0.1891891891891892,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 0.06976744186046512,
+          "correct": false
+        },
+        {
+          "similarity": 0.1797752808988764,
+          "correct": false
+        },
+        {
+          "similarity": 0.1978021978021978,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.4946236559139785,
+          "correct": false
+        },
+        {
+          "similarity": 0.7130434782608696,
+          "correct": false
+        },
+        {
+          "similarity": 0.22388059701492538,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.9795918367346939,
+          "correct": true
+        },
+        {
+          "similarity": 0.42696629213483145,
+          "correct": false
+        },
+        {
+          "similarity": 0.42696629213483145,
+          "correct": false
+        },
+        {
+          "similarity": 0.06818181818181818,
+          "correct": false
+        },
+        {
+          "similarity": 0.47368421052631576,
+          "correct": false
+        },
+        {
+          "similarity": 0.45161290322580644,
+          "correct": false
+        },
+        {
+          "similarity": 0.18823529411764706,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.5538461538461539,
+          "correct": false
+        },
+        {
+          "similarity": 0.6379310344827587,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.6153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.24096385542168675,
+          "correct": false
+        },
+        {
+          "similarity": 0.4745762711864407,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.24793388429752067,
+          "correct": false
+        },
+        {
+          "similarity": 0.38095238095238093,
+          "correct": false
+        },
+        {
+          "similarity": 0.26666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.48148148148148145,
+          "correct": false
+        },
+        {
+          "similarity": 0.5205479452054794,
+          "correct": false
+        },
+        {
+          "similarity": 0.2153846153846154,
+          "correct": false
+        },
+        {
+          "similarity": 0.24742268041237114,
+          "correct": false
+        },
+        {
+          "similarity": 0.31496062992125984,
+          "correct": false
+        },
+        {
+          "similarity": 0.6301369863013698,
+          "correct": false
+        },
+        {
+          "similarity": 0.1111111111111111,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.5555555555555556,
+          "correct": false
+        },
+        {
+          "similarity": 0.5217391304347826,
+          "correct": false
+        },
+        {
+          "similarity": 0.7358490566037735,
+          "correct": false
+        },
+        {
+          "similarity": 0.1728395061728395,
+          "correct": false
+        },
+        {
+          "similarity": 0.09876543209876543,
+          "correct": false
+        },
+        {
+          "similarity": 0.1728395061728395,
+          "correct": false
+        },
+        {
+          "similarity": 0.64,
+          "correct": false
+        },
+        {
+          "similarity": 0.3448275862068966,
+          "correct": false
+        },
+        {
+          "similarity": 0.0963855421686747,
+          "correct": false
+        },
+        {
+          "similarity": 0.15625,
+          "correct": false
+        },
+        {
+          "similarity": 0.13953488372093023,
+          "correct": false
+        },
+        {
+          "similarity": 0.41025641025641024,
+          "correct": false
+        },
+        {
+          "similarity": 0.10309278350515463,
+          "correct": false
+        },
+        {
+          "similarity": 0.4948453608247423,
+          "correct": false
+        },
+        {
+          "similarity": 0.5252525252525253,
+          "correct": false
+        },
+        {
+          "similarity": 0.18556701030927836,
+          "correct": false
+        },
+        {
+          "similarity": 0.16,
+          "correct": false
+        },
+        {
+          "similarity": 0.6792452830188679,
+          "correct": false
+        },
+        {
+          "similarity": 0.16326530612244897,
+          "correct": false
+        },
+        {
+          "similarity": 0.4909090909090909,
+          "correct": false
+        },
+        {
+          "similarity": 0.21052631578947367,
+          "correct": false
+        },
+        {
+          "similarity": 0.5142857142857142,
+          "correct": false
+        },
+        {
+          "similarity": 0.4946236559139785,
+          "correct": false
+        },
+        {
+          "similarity": 0.10416666666666667,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.336,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6329113924050633,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.6582278481012658,
+          "correct": false
+        },
+        {
+          "similarity": 0.49230769230769234,
+          "correct": false
+        },
+        {
+          "similarity": 0.4778761061946903,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.41739130434782606,
+          "correct": false
+        },
+        {
+          "similarity": 0.42857142857142855,
+          "correct": false
+        },
+        {
+          "similarity": 0.47692307692307695,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.5420560747663551,
+          "correct": false
+        },
+        {
+          "similarity": 0.41739130434782606,
+          "correct": false
+        },
+        {
+          "similarity": 0.4691358024691358,
+          "correct": false
+        },
+        {
+          "similarity": 0.41739130434782606,
+          "correct": false
+        },
+        {
+          "similarity": 0.1,
+          "correct": false
+        },
+        {
+          "similarity": 0.5242718446601942,
+          "correct": false
+        },
+        {
+          "similarity": 0.72,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.6086956521739131,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.09345794392523364,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.16666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.5833333333333334,
+          "correct": false
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.46464646464646464,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.23376623376623376,
+          "correct": false
+        },
+        {
+          "similarity": 0.48598130841121495,
+          "correct": false
+        },
+        {
+          "similarity": 0.5046728971962616,
+          "correct": false
+        },
+        {
+          "similarity": 0.48598130841121495,
+          "correct": false
+        },
+        {
+          "similarity": 0.6306306306306306,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.1,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.7304347826086957,
+          "correct": false
+        },
+        {
+          "similarity": 0.1,
+          "correct": false
+        },
+        {
+          "similarity": 0.09803921568627451,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.13592233009708737,
+          "correct": false
+        },
+        {
+          "similarity": 0.5116279069767442,
+          "correct": false
+        },
+        {
+          "similarity": 0.25688073394495414,
+          "correct": false
+        },
+        {
+          "similarity": 0.4972375690607735,
+          "correct": false
+        },
+        {
+          "similarity": 0.31683168316831684,
+          "correct": false
+        },
+        {
+          "similarity": 0.19047619047619047,
+          "correct": false
+        },
+        {
+          "similarity": 0.20754716981132076,
+          "correct": false
+        },
+        {
+          "similarity": 0.6363636363636364,
+          "correct": false
+        },
+        {
+          "similarity": 0.6363636363636364,
+          "correct": false
+        },
+        {
+          "similarity": 0.12987012987012986,
+          "correct": false
+        },
+        {
+          "similarity": 0.19047619047619047,
+          "correct": false
+        },
+        {
+          "similarity": 0.20754716981132076,
+          "correct": false
+        }
+      ],
+      "date": [
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.375,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.375,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.875,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.9,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.1111111111111111,
+          "correct": false
+        },
+        {
+          "similarity": 0.8888888888888888,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        }
+      ],
+      "total": [
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.36363636363636365,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.3333333333333333,
+          "correct": false
+        },
+        {
+          "similarity": 0.7692307692307693,
+          "correct": false
+        },
+        {
+          "similarity": 0.18181818181818182,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 0.9090909090909091,
+          "correct": true
+        },
+        {
+          "similarity": 0.36363636363636365,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.6,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 0.8333333333333334,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5454545454545454,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.0,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.2222222222222222,
+          "correct": false
+        },
+        {
+          "similarity": 0.36363636363636365,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 0.3333333333333333,
+          "correct": false
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.3333333333333333,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.3076923076923077,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.4444444444444444,
+          "correct": false
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 0.8,
+          "correct": true
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.25,
+          "correct": false
+        },
+        {
+          "similarity": 0.36363636363636365,
+          "correct": false
+        },
+        {
+          "similarity": 0.18181818181818182,
+          "correct": false
+        },
+        {
+          "similarity": 0.8333333333333334,
+          "correct": true
+        },
+        {
+          "similarity": 0.4,
+          "correct": false
+        },
+        {
+          "similarity": 0.18181818181818182,
+          "correct": false
+        },
+        {
+          "similarity": 0.75,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.6666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.2,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 0.5,
+          "correct": false
+        },
+        {
+          "similarity": 0.16666666666666666,
+          "correct": false
+        },
+        {
+          "similarity": 0.46153846153846156,
+          "correct": false
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        },
+        {
+          "similarity": 1.0,
+          "correct": true
+        }
+      ]
+    },
+    "statistics": {
+      "company": {
+        "accuracy": 0.4346,
+        "accuracy_std": 0.4502,
+        "accuracy_min": 0.0,
+        "accuracy_max": 1.0,
+        "accuracy_median": 0.4151,
+        "correct_count": 55,
+        "correct_percentage": 37.41,
+        "incorrect_count": 92,
+        "n_samples": 147,
+        "iqr": [
+          0.0,
+          1.0
+        ]
+      },
+      "address": {
+        "accuracy": 0.3971,
+        "accuracy_std": 0.2245,
+        "accuracy_min": 0.0682,
+        "accuracy_max": 0.9796,
+        "accuracy_median": 0.427,
+        "correct_count": 1,
+        "correct_percentage": 0.68,
+        "incorrect_count": 146,
+        "n_samples": 147,
+        "iqr": [
+          0.17630739353585795,
+          0.6153846153846154
+        ]
+      },
+      "date": {
+        "accuracy": 0.9228,
+        "accuracy_std": 0.2442,
+        "accuracy_min": 0.0,
+        "accuracy_max": 1.0,
+        "accuracy_median": 1.0,
+        "correct_count": 134,
+        "correct_percentage": 91.16,
+        "incorrect_count": 13,
+        "n_samples": 147,
+        "iqr": [
+          1.0,
+          1.0
+        ]
+      },
+      "total": {
+        "accuracy": 0.6649,
+        "accuracy_std": 0.3172,
+        "accuracy_min": 0.0,
+        "accuracy_max": 1.0,
+        "accuracy_median": 0.6667,
+        "correct_count": 68,
+        "correct_percentage": 46.26,
+        "incorrect_count": 79,
+        "n_samples": 147,
+        "iqr": [
+          0.4,
+          1.0
+        ]
+      }
+    },
+    "files_processed": 147
+  },
+  "comparison": {
+    "company": {
+      "tesseract_accuracy": 0.3804,
+      "paddle_accuracy": 0.4346,
+      "absolute_difference": 0.0542,
+      "percentage_improvement": 14.25,
+      "winner": "PaddleOCR",
+      "correct_count_difference": 10
+    },
+    "address": {
+      "tesseract_accuracy": 0.3846,
+      "paddle_accuracy": 0.3971,
+      "absolute_difference": 0.0125,
+      "percentage_improvement": 3.25,
+      "winner": "PaddleOCR",
+      "correct_count_difference": 0
+    },
+    "date": {
+      "tesseract_accuracy": 0.7939,
+      "paddle_accuracy": 0.9228,
+      "absolute_difference": 0.1289,
+      "percentage_improvement": 16.24,
+      "winner": "PaddleOCR",
+      "correct_count_difference": 21
+    },
+    "total": {
+      "tesseract_accuracy": 0.5751,
+      "paddle_accuracy": 0.6649,
+      "absolute_difference": 0.0898,
+      "percentage_improvement": 15.61,
+      "winner": "PaddleOCR",
+      "correct_count_difference": 23
+    }
+  }
+}

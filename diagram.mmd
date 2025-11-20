@@ -1,0 +1,32 @@
+flowchart TD
+    %% Input
+    A["Receipt Image"] --> B["OCR (Tesseract & PaddleOCR)"]
+    
+    %% Regex paths
+    B --> C["Hand-Crafted Regex"]
+    B --> D["Learned Regex"]
+    
+    %% Ensemble Learned Regex stages
+    D --> E1["Stage 1: Candidate Pattern Generation"]
+    E1 --> E2["Stage 2: Pattern Evaluation & Filtering"]
+    E2 --> E3["Stage 3: Weighted Pattern Selection"]
+    E3 --> E4["Stage 4: Ensemble Voting & Aggregation"]
+    
+    %% Merge all paths to extracted fields
+    C --> F["Extracted Fields<br/>Company • Address • Date • Total"]
+    E4 --> F
+
+    %% Evaluation
+    F --> G["Performance Evaluation & Statistical Testing<br/>Accuracy, Exact Match, CER, Significance, Effect Size"]
+
+    %% Styles
+    style A fill:#e3f2fd,stroke:#1976d2,stroke-width:3px
+    style B fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style C fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style D fill:#b39ddb,stroke:#512da8,stroke-width:2px
+    style E1 fill:#d1c4e9,stroke:#311b92,stroke-width:2px
+    style E2 fill:#d1c4e9,stroke:#311b92,stroke-width:2px
+    style E3 fill:#d1c4e9,stroke:#311b92,stroke-width:2px
+    style E4 fill:#d1c4e9,stroke:#311b92,stroke-width:2px
+    style F fill:#a5d6a7,stroke:#1b5e20,stroke-width:3px
+    style G fill:#fce4ec,stroke:#880e4f,stroke-width:3px

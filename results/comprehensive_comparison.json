@@ -1,0 +1,1398 @@
+{
+  "comparison": {
+    "company": {
+      "baseline": {
+        "tesseract_accuracy": 0.0567,
+        "paddle_accuracy": 0.0657,
+        "difference": 0.009,
+        "winner": "PaddleOCR"
+      },
+      "ensemble": {
+        "tesseract_accuracy": 0.0567,
+        "paddle_accuracy": 0.0657,
+        "difference": 0.009,
+        "winner": "PaddleOCR"
+      },
+      "tesseract_improvement": {
+        "baseline_to_ensemble": 0.0,
+        "percentage_improvement": 0.0,
+        "statistical_test": {
+          "field": "Tesseract_company_Improvement",
+          "baseline_stats": {
+            "n": 973,
+            "mean": 0.0567,
+            "std": 0.2151,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "ensemble_stats": {
+            "n": 973,
+            "mean": 0.0567,
+            "std": 0.2151,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "normality_baseline": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.2763,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "normality_ensemble": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.2763,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "paired_t_test": {
+            "test_name": "Paired t-test",
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false,
+            "mean_diff": 0.0
+          },
+          "mann_whitney_u": {
+            "test_name": "Mann-Whitney U",
+            "u_statistic": 473364.5,
+            "p_value": 1.0,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false
+          },
+          "cohens_d": {
+            "test_name": "Cohen's d",
+            "cohens_d": 0.0,
+            "interpretation": "Negligible",
+            "group1_mean": 0.0567,
+            "group2_mean": 0.0567,
+            "mean_difference": 0.0
+          }
+        }
+      },
+      "paddle_improvement": {
+        "baseline_to_ensemble": 0.0,
+        "percentage_improvement": 0.0,
+        "statistical_test": {
+          "field": "PaddleOCR_company_Improvement",
+          "baseline_stats": {
+            "n": 973,
+            "mean": 0.0657,
+            "std": 0.2342,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "ensemble_stats": {
+            "n": 973,
+            "mean": 0.0657,
+            "std": 0.2342,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "normality_baseline": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.2949,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "normality_ensemble": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.2949,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "paired_t_test": {
+            "test_name": "Paired t-test",
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false,
+            "mean_diff": 0.0
+          },
+          "mann_whitney_u": {
+            "test_name": "Mann-Whitney U",
+            "u_statistic": 473364.5,
+            "p_value": 1.0,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false
+          },
+          "cohens_d": {
+            "test_name": "Cohen's d",
+            "cohens_d": 0.0,
+            "interpretation": "Negligible",
+            "group1_mean": 0.0657,
+            "group2_mean": 0.0657,
+            "mean_difference": 0.0
+          }
+        }
+      },
+      "cross_engine_comparison": {
+        "field": "CrossEngine_company_Ensemble",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0567,
+          "std": 0.2151,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.0657,
+          "std": 0.2342,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.2763,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.2949,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": -2.5311,
+          "p_value": 0.011528,
+          "significant_at_0.05": true,
+          "significant_at_0.01": false,
+          "mean_diff": 0.009
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 469582.0,
+          "p_value": 0.49993,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0399,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0567,
+          "group2_mean": 0.0657,
+          "mean_difference": 0.009
+        }
+      }
+    },
+    "address": {
+      "baseline": {
+        "tesseract_accuracy": 0.0583,
+        "paddle_accuracy": 0.061,
+        "difference": 0.0027,
+        "winner": "PaddleOCR"
+      },
+      "ensemble": {
+        "tesseract_accuracy": 0.0583,
+        "paddle_accuracy": 0.061,
+        "difference": 0.0027,
+        "winner": "PaddleOCR"
+      },
+      "tesseract_improvement": {
+        "baseline_to_ensemble": 0.0,
+        "percentage_improvement": 0.0,
+        "statistical_test": {
+          "field": "Tesseract_address_Improvement",
+          "baseline_stats": {
+            "n": 973,
+            "mean": 0.0583,
+            "std": 0.164,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "ensemble_stats": {
+            "n": 973,
+            "mean": 0.0583,
+            "std": 0.164,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "normality_baseline": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4079,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "normality_ensemble": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4079,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "paired_t_test": {
+            "test_name": "Paired t-test",
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false,
+            "mean_diff": 0.0
+          },
+          "mann_whitney_u": {
+            "test_name": "Mann-Whitney U",
+            "u_statistic": 473364.5,
+            "p_value": 1.0,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false
+          },
+          "cohens_d": {
+            "test_name": "Cohen's d",
+            "cohens_d": 0.0,
+            "interpretation": "Negligible",
+            "group1_mean": 0.0583,
+            "group2_mean": 0.0583,
+            "mean_difference": 0.0
+          }
+        }
+      },
+      "paddle_improvement": {
+        "baseline_to_ensemble": 0.0,
+        "percentage_improvement": 0.0,
+        "statistical_test": {
+          "field": "PaddleOCR_address_Improvement",
+          "baseline_stats": {
+            "n": 973,
+            "mean": 0.061,
+            "std": 0.1695,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "ensemble_stats": {
+            "n": 973,
+            "mean": 0.061,
+            "std": 0.1695,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "normality_baseline": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4115,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "normality_ensemble": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4115,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "paired_t_test": {
+            "test_name": "Paired t-test",
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false,
+            "mean_diff": 0.0
+          },
+          "mann_whitney_u": {
+            "test_name": "Mann-Whitney U",
+            "u_statistic": 473364.5,
+            "p_value": 1.0,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false
+          },
+          "cohens_d": {
+            "test_name": "Cohen's d",
+            "cohens_d": 0.0,
+            "interpretation": "Negligible",
+            "group1_mean": 0.061,
+            "group2_mean": 0.061,
+            "mean_difference": 0.0
+          }
+        }
+      },
+      "cross_engine_comparison": {
+        "field": "CrossEngine_address_Ensemble",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0583,
+          "std": 0.164,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.061,
+          "std": 0.1695,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4079,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4115,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": -1.9203,
+          "p_value": 0.055112,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0027
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 471275.5,
+          "p_value": 0.78621,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.016,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0583,
+          "group2_mean": 0.061,
+          "mean_difference": 0.0027
+        }
+      }
+    },
+    "date": {
+      "baseline": {
+        "tesseract_accuracy": 0.1183,
+        "paddle_accuracy": 0.1394,
+        "difference": 0.0211,
+        "winner": "PaddleOCR"
+      },
+      "ensemble": {
+        "tesseract_accuracy": 0.1183,
+        "paddle_accuracy": 0.1394,
+        "difference": 0.0211,
+        "winner": "PaddleOCR"
+      },
+      "tesseract_improvement": {
+        "baseline_to_ensemble": 0.0,
+        "percentage_improvement": 0.0,
+        "statistical_test": {
+          "field": "Tesseract_date_Improvement",
+          "baseline_stats": {
+            "n": 973,
+            "mean": 0.1183,
+            "std": 0.3186,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "ensemble_stats": {
+            "n": 973,
+            "mean": 0.1183,
+            "std": 0.3186,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "normality_baseline": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.386,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "normality_ensemble": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.386,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "paired_t_test": {
+            "test_name": "Paired t-test",
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false,
+            "mean_diff": 0.0
+          },
+          "mann_whitney_u": {
+            "test_name": "Mann-Whitney U",
+            "u_statistic": 473364.5,
+            "p_value": 1.0,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false
+          },
+          "cohens_d": {
+            "test_name": "Cohen's d",
+            "cohens_d": 0.0,
+            "interpretation": "Negligible",
+            "group1_mean": 0.1183,
+            "group2_mean": 0.1183,
+            "mean_difference": 0.0
+          }
+        }
+      },
+      "paddle_improvement": {
+        "baseline_to_ensemble": 0.0,
+        "percentage_improvement": 0.0,
+        "statistical_test": {
+          "field": "PaddleOCR_date_Improvement",
+          "baseline_stats": {
+            "n": 973,
+            "mean": 0.1394,
+            "std": 0.3438,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "ensemble_stats": {
+            "n": 973,
+            "mean": 0.1394,
+            "std": 0.3438,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "normality_baseline": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4165,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "normality_ensemble": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4165,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "paired_t_test": {
+            "test_name": "Paired t-test",
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false,
+            "mean_diff": 0.0
+          },
+          "mann_whitney_u": {
+            "test_name": "Mann-Whitney U",
+            "u_statistic": 473364.5,
+            "p_value": 1.0,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false
+          },
+          "cohens_d": {
+            "test_name": "Cohen's d",
+            "cohens_d": 0.0,
+            "interpretation": "Negligible",
+            "group1_mean": 0.1394,
+            "group2_mean": 0.1394,
+            "mean_difference": 0.0
+          }
+        }
+      },
+      "cross_engine_comparison": {
+        "field": "CrossEngine_date_Ensemble",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.1183,
+          "std": 0.3186,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.1394,
+          "std": 0.3438,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.386,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4165,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": -4.7197,
+          "p_value": 3e-06,
+          "significant_at_0.05": true,
+          "significant_at_0.01": true,
+          "mean_diff": 0.0211
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 463413.0,
+          "p_value": 0.174216,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0636,
+          "interpretation": "Negligible",
+          "group1_mean": 0.1183,
+          "group2_mean": 0.1394,
+          "mean_difference": 0.0211
+        }
+      }
+    },
+    "total": {
+      "baseline": {
+        "tesseract_accuracy": 0.0867,
+        "paddle_accuracy": 0.1015,
+        "difference": 0.0147,
+        "winner": "PaddleOCR"
+      },
+      "ensemble": {
+        "tesseract_accuracy": 0.0867,
+        "paddle_accuracy": 0.1015,
+        "difference": 0.0147,
+        "winner": "PaddleOCR"
+      },
+      "tesseract_improvement": {
+        "baseline_to_ensemble": 0.0,
+        "percentage_improvement": 0.0,
+        "statistical_test": {
+          "field": "Tesseract_total_Improvement",
+          "baseline_stats": {
+            "n": 973,
+            "mean": 0.0867,
+            "std": 0.2373,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "ensemble_stats": {
+            "n": 973,
+            "mean": 0.0867,
+            "std": 0.2373,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "normality_baseline": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4139,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "normality_ensemble": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4139,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "paired_t_test": {
+            "test_name": "Paired t-test",
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false,
+            "mean_diff": 0.0
+          },
+          "mann_whitney_u": {
+            "test_name": "Mann-Whitney U",
+            "u_statistic": 473364.5,
+            "p_value": 1.0,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false
+          },
+          "cohens_d": {
+            "test_name": "Cohen's d",
+            "cohens_d": 0.0,
+            "interpretation": "Negligible",
+            "group1_mean": 0.0867,
+            "group2_mean": 0.0867,
+            "mean_difference": 0.0
+          }
+        }
+      },
+      "paddle_improvement": {
+        "baseline_to_ensemble": 0.0,
+        "percentage_improvement": 0.0,
+        "statistical_test": {
+          "field": "PaddleOCR_total_Improvement",
+          "baseline_stats": {
+            "n": 973,
+            "mean": 0.1015,
+            "std": 0.2697,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "ensemble_stats": {
+            "n": 973,
+            "mean": 0.1015,
+            "std": 0.2697,
+            "min": 0.0,
+            "max": 1.0,
+            "median": 0.0
+          },
+          "normality_baseline": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4181,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "normality_ensemble": {
+            "test_name": "Shapiro-Wilk",
+            "statistic": 0.4181,
+            "p_value": 0.0,
+            "is_normal_at_0.05": false
+          },
+          "paired_t_test": {
+            "test_name": "Paired t-test",
+            "t_statistic": NaN,
+            "p_value": NaN,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false,
+            "mean_diff": 0.0
+          },
+          "mann_whitney_u": {
+            "test_name": "Mann-Whitney U",
+            "u_statistic": 473364.5,
+            "p_value": 1.0,
+            "significant_at_0.05": false,
+            "significant_at_0.01": false
+          },
+          "cohens_d": {
+            "test_name": "Cohen's d",
+            "cohens_d": 0.0,
+            "interpretation": "Negligible",
+            "group1_mean": 0.1015,
+            "group2_mean": 0.1015,
+            "mean_difference": 0.0
+          }
+        }
+      },
+      "cross_engine_comparison": {
+        "field": "CrossEngine_total_Ensemble",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0867,
+          "std": 0.2373,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.1015,
+          "std": 0.2697,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4139,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4181,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": -3.8565,
+          "p_value": 0.000123,
+          "significant_at_0.05": true,
+          "significant_at_0.01": true,
+          "mean_diff": 0.0147
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 469574.0,
+          "p_value": 0.61997,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.058,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0867,
+          "group2_mean": 0.1015,
+          "mean_difference": 0.0147
+        }
+      }
+    }
+  },
+  "statistical_tests": {
+    "company": {
+      "tesseract_improvement_test": {
+        "field": "Tesseract_company_Improvement",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0567,
+          "std": 0.2151,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.0567,
+          "std": 0.2151,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.2763,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.2763,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": NaN,
+          "p_value": NaN,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 473364.5,
+          "p_value": 1.0,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0567,
+          "group2_mean": 0.0567,
+          "mean_difference": 0.0
+        }
+      },
+      "paddle_improvement_test": {
+        "field": "PaddleOCR_company_Improvement",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0657,
+          "std": 0.2342,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.0657,
+          "std": 0.2342,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.2949,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.2949,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": NaN,
+          "p_value": NaN,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 473364.5,
+          "p_value": 1.0,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0657,
+          "group2_mean": 0.0657,
+          "mean_difference": 0.0
+        }
+      },
+      "cross_engine_test": {
+        "field": "CrossEngine_company_Ensemble",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0567,
+          "std": 0.2151,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.0657,
+          "std": 0.2342,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.2763,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.2949,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": -2.5311,
+          "p_value": 0.011528,
+          "significant_at_0.05": true,
+          "significant_at_0.01": false,
+          "mean_diff": 0.009
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 469582.0,
+          "p_value": 0.49993,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0399,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0567,
+          "group2_mean": 0.0657,
+          "mean_difference": 0.009
+        }
+      }
+    },
+    "address": {
+      "tesseract_improvement_test": {
+        "field": "Tesseract_address_Improvement",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0583,
+          "std": 0.164,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.0583,
+          "std": 0.164,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4079,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4079,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": NaN,
+          "p_value": NaN,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 473364.5,
+          "p_value": 1.0,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0583,
+          "group2_mean": 0.0583,
+          "mean_difference": 0.0
+        }
+      },
+      "paddle_improvement_test": {
+        "field": "PaddleOCR_address_Improvement",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.061,
+          "std": 0.1695,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.061,
+          "std": 0.1695,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4115,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4115,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": NaN,
+          "p_value": NaN,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 473364.5,
+          "p_value": 1.0,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0,
+          "interpretation": "Negligible",
+          "group1_mean": 0.061,
+          "group2_mean": 0.061,
+          "mean_difference": 0.0
+        }
+      },
+      "cross_engine_test": {
+        "field": "CrossEngine_address_Ensemble",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0583,
+          "std": 0.164,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.061,
+          "std": 0.1695,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4079,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4115,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": -1.9203,
+          "p_value": 0.055112,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0027
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 471275.5,
+          "p_value": 0.78621,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.016,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0583,
+          "group2_mean": 0.061,
+          "mean_difference": 0.0027
+        }
+      }
+    },
+    "date": {
+      "tesseract_improvement_test": {
+        "field": "Tesseract_date_Improvement",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.1183,
+          "std": 0.3186,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.1183,
+          "std": 0.3186,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.386,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.386,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": NaN,
+          "p_value": NaN,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 473364.5,
+          "p_value": 1.0,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0,
+          "interpretation": "Negligible",
+          "group1_mean": 0.1183,
+          "group2_mean": 0.1183,
+          "mean_difference": 0.0
+        }
+      },
+      "paddle_improvement_test": {
+        "field": "PaddleOCR_date_Improvement",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.1394,
+          "std": 0.3438,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.1394,
+          "std": 0.3438,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4165,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4165,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": NaN,
+          "p_value": NaN,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 473364.5,
+          "p_value": 1.0,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0,
+          "interpretation": "Negligible",
+          "group1_mean": 0.1394,
+          "group2_mean": 0.1394,
+          "mean_difference": 0.0
+        }
+      },
+      "cross_engine_test": {
+        "field": "CrossEngine_date_Ensemble",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.1183,
+          "std": 0.3186,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.1394,
+          "std": 0.3438,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.386,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4165,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": -4.7197,
+          "p_value": 3e-06,
+          "significant_at_0.05": true,
+          "significant_at_0.01": true,
+          "mean_diff": 0.0211
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 463413.0,
+          "p_value": 0.174216,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0636,
+          "interpretation": "Negligible",
+          "group1_mean": 0.1183,
+          "group2_mean": 0.1394,
+          "mean_difference": 0.0211
+        }
+      }
+    },
+    "total": {
+      "tesseract_improvement_test": {
+        "field": "Tesseract_total_Improvement",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0867,
+          "std": 0.2373,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.0867,
+          "std": 0.2373,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4139,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4139,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": NaN,
+          "p_value": NaN,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 473364.5,
+          "p_value": 1.0,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0867,
+          "group2_mean": 0.0867,
+          "mean_difference": 0.0
+        }
+      },
+      "paddle_improvement_test": {
+        "field": "PaddleOCR_total_Improvement",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.1015,
+          "std": 0.2697,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.1015,
+          "std": 0.2697,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4181,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4181,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": NaN,
+          "p_value": NaN,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false,
+          "mean_diff": 0.0
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 473364.5,
+          "p_value": 1.0,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.0,
+          "interpretation": "Negligible",
+          "group1_mean": 0.1015,
+          "group2_mean": 0.1015,
+          "mean_difference": 0.0
+        }
+      },
+      "cross_engine_test": {
+        "field": "CrossEngine_total_Ensemble",
+        "baseline_stats": {
+          "n": 973,
+          "mean": 0.0867,
+          "std": 0.2373,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "ensemble_stats": {
+          "n": 973,
+          "mean": 0.1015,
+          "std": 0.2697,
+          "min": 0.0,
+          "max": 1.0,
+          "median": 0.0
+        },
+        "normality_baseline": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4139,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "normality_ensemble": {
+          "test_name": "Shapiro-Wilk",
+          "statistic": 0.4181,
+          "p_value": 0.0,
+          "is_normal_at_0.05": false
+        },
+        "paired_t_test": {
+          "test_name": "Paired t-test",
+          "t_statistic": -3.8565,
+          "p_value": 0.000123,
+          "significant_at_0.05": true,
+          "significant_at_0.01": true,
+          "mean_diff": 0.0147
+        },
+        "mann_whitney_u": {
+          "test_name": "Mann-Whitney U",
+          "u_statistic": 469574.0,
+          "p_value": 0.61997,
+          "significant_at_0.05": false,
+          "significant_at_0.01": false
+        },
+        "cohens_d": {
+          "test_name": "Cohen's d",
+          "cohens_d": 0.058,
+          "interpretation": "Negligible",
+          "group1_mean": 0.0867,
+          "group2_mean": 0.1015,
+          "mean_difference": 0.0147
+        }
+      }
+    }
+  }
+}

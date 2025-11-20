@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ntandongobese/receipt-ocr-project/mlruns/149931407981227224/1a76ca25f6d44d8bad984db36c323d07/artifacts
+end_time: 1763465475853
+entry_point_name: ''
+experiment_id: '149931407981227224'
+lifecycle_stage: active
+run_id: 1a76ca25f6d44d8bad984db36c323d07
+run_name: TESSERACT_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763465475843
+status: 3
+tags: []
+user_id: ntandongobese

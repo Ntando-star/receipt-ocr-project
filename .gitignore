@@ -1,0 +1,53 @@
+# ----------------------
+# Python cache / compiled files
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# ----------------------
+# Virtual environments
+# ----------------------
+venv/
+.env/
+.env.*
+
+# ----------------------
+# Jupyter / IPython
+# ----------------------
+.ipynb_checkpoints
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+
+# ----------------------
+# Data outputs
+# ----------------------
+data/ocr_output/
+data/ocr_output_trocr/
+data/processed/
+data/training/training_data.csv
+
+# ----------------------
+# Models / checkpoints
+# ----------------------
+*.pt       # YOLO model weights
+*.joblib   # ML regex selector model
+
+# ----------------------
+# IDE / editor configs
+# ----------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------
+# System files
+# ----------------------
+.DS_Store
+Thumbs.db
