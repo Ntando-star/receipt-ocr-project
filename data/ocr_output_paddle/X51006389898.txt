@@ -1,0 +1,44 @@
+RESTORAN WAN SHE
+002043319-W
+No. 2, Jalan Temenggung 19/9,
+Seksyen 9, Bandar Mahkota Cheras,
+43200 Cheras, Selangor
+GST REG NO: 001335787520
+Tax ]
+Invoice
+INV No. : 784997
+Cashier: Nicole
+Date
+: 29-09-2017 22:19:53
+Description
+Qty
+U.price
+Total TAX
+Tiger (B)
+6 x
+12.00
+72.00
+SR
+Guiness Stout (B) Promotion
+6 ×
+15.40
+92.40
+SR
+Total QTY: 12
+Total (Excluding GST):
+155.09
+GST payable (6%):
+9.31
+Total (Inclusive of GST):
+164.40
+TOTAL:
+164.40
+CASH :
+164.40
+GST Summary
+Amount (RM)
+SR
+(@ 6%)
+Tax(RM)
+155.09
+9.31

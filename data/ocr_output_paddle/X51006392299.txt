@@ -1,0 +1,43 @@
+BEMED (SP) SDN. BHZ.
+No.49, Jalan Dinar G U3/G,
+Subang Perdana,
+40150 Shah Alam, Selangor D.E
+03-7845 8155
+GST R0g : 001734164480
+CASH RECEIPT
+CB*; 78283158333
+14/Jun/201708:34:22
+Cashier : puterl ()
+Qty
+Code&Desc
+Price
+Total
+ALPHA LIPID LIFE LINE
+SR
+1 184810
+165.00
+165.00
+1
+Type:
+
+SubTotal:
+165.00
+Rounding Adj :
+0.00
+Total Indusive GST:
+165.00
+VISA
+165.00
+GSt Summary:
+Amount
+Tax
+(MYR)
+(MYR)
+r
+SR
+156.66
+8.34
+ONG GUAT CHYE
+Points : 1,460
+Thank you.
+Please come again.

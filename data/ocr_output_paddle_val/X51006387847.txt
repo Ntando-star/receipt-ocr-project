@@ -1,0 +1,55 @@
+"03T
+BEMED (SP) SDN. BHD.
+No.49, Jalan Oinar G U3/G,
+Subang Perdana,
+40150 Shah Alam, Selangor D..
+03-7845 8155
+GST Reg : 001734164480
+CASH RECEIPT
+CB# : 83679570476
+15/Apr/2017 04:56:46
+Cashier: be ()
+Qty
+Code&Desc
+Price
+Total
+PRISTIN OMEGA-3 FISH OIL 2X15O'S(VIP)
+1 208250
+300.00
+300
+8R
+ALPHA LIPID LIFE LINE 450MG 450G
+2 184810
+105.00
+330 8R
+8O-(DERMAPRO OINT) 15G
+1
+178104
+OK
+5.00
+5 ZRL
+4
+Type:
+3
+SubTotal:
+835.00
+Rounding Adj :
+0.00
+al Indusive GST:
+635.00
+MASTER
+835.00
+GST Summary:
+Amount
+Tax
+(MYR)
+(MYR)
+SR
+584.34
+35.08
+ZRL
+5.00
+0.00
+ONG GUAT CHYE
+Points :
+1.124

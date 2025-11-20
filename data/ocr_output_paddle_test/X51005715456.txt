@@ -1,0 +1,66 @@
+08032
+KHE ELECTRICAL TRADING
+(001465242-V)
+33-G JALAN MAJU 3/1
+TAMAN LEMBAH MAJU
+CHERAS, 56100 KL
+TEL : 03-4296 0133
+FAX : 03-4296 8869
+KHE33G@HOTMAIL.COM
+GST ID : 000143474688
+TAX INVOICE
+Bill To :
+CASH
+Doc No.
+: CS00058953
+Date: 22/03/2018
+Cashier
+: USER
+Time 10:18:00
+Salesperson : 002
+Ref.:
+(GST)
+(GST)
+Item
+Qty
+S/Price
+$/Price
+Amount
+Tax
+1113
+2
+48.00
+50.88
+101.76
+SR
+105W E27 PLCE TUBE
+Total Qty:
+2
+101.76
+Total Sales (Excluding GST) :
+96.00
+Discount:
+0.00
+Totai GST :
+5.76
+Rounding :
+-0.01
+Total Sales (Inclusive of GsT):
+101.75
+CASH :
+101.75
+Change :
+0.00
+GST SUMMARY
+Tax Code
+$\$
+Arnt (RM)
+Tax(RM)
+SR
+6
+96.00
+5.76
+Total :
+96.00
+5.76
+COODS SOLD ARE NOT RETUIRNARLETHANK YOL

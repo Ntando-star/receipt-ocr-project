@@ -1,0 +1,70 @@
+OLD TOWN WHITE COFFE
+EXQUISITE GARDEN SDN BHD
+(JM 809642-A)
+LOT NO R134,Giant Hypermarket Plentong
+No3, Jalan Masai Lama
+81750 Masai. Johor Bahru
+TEL : +607-3536960
+OUTLET: J11 GIANT PLENTONG
+AX INVOICE
+GST ID:000750002176
+2 COUNTER1
+4004 ANICA
+Check:21063
+Cover:1
+03 Jun 18 03:07:32 PM
+Table:63 / 1
+__- Dine In
+1
+SN2 Soup Pan Mee
+10.90 S
+1
+ST8
+12.97 S
+1
+SN8 Sp Nod Special
+S
+1
+WC1 (C) WC
+S
+1
+VA9 French Fries Bkt
+4.15 S
+Total:
+28.02
+Rounding:
+0.02-
+Total:
+28.00
+Subtotal:
+25.47
+10% Srv Chg:
+2.55
+GST INCLUSIVE
+0.00
+*
+Total:
+28.02
+Rounding:
+0.02-
+Total:
+28.00
+Paid:
+100.00
+CASH
+100.00
+Change Due:
+72.00
+-4003 CLOSED 03 Jun 18 03:34:54 PM--
+THANK YOu
+PLEASE COME AGAIN
+GST @0% included in total
+GSTSummary
+Amount(RM)
+GST(RM)
+S=GST @0%:
+28.02
+0.00
+Z=GST @0%:
+0.00
+0.00

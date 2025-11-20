@@ -1,0 +1,61 @@
+SATU KAMPUNG ENTERPRISE SDN BHD
+(1127686-K)
+NO.42, PASAR BORONG SELANGOF:
+JALAN PUTRA PERMAI,
+43300 SERI KEMBANGAN, SELANGOR
+TEL : 03-8938 2188
+SATUKAMPUNGESB@GMAII.COM
+GST ID : 000816205824
+TAX INVOICE
+Doc No
+: CS00039037
+Date: 13/01/201:
+Cashier
+: USER
+Time: 23 37.00
+Salesperson
+Ref:
+(GST)
+(GST)
+Item
+Qty
+S/Price
+S/Price
+Amouni
+Tax
+KIT01
+3
+19.81
+21.00
+63.00
+SR
+KITCHENWARE
+Total Qty.
+3
+63 00
+Total Sales (Exciuding GST)
+59.43
+Discount :
+0.00
+Total GST:
+3.57
+Rounding :
+0.00
+Total Sales (Inclusive of GsT) :
+63.00
+CASH :
+70.00
+Change :
+7.00
+STED
+IARY
+%
+Amt (RM)
+Tax(FM)
+6
+59.43
+3.57
+ON BHD
+Total :
+59.43
+3.57

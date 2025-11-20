@@ -1,0 +1,50 @@
+3-1708032
+watsons
+Watson's Personal Care Stores Sdn Bhd
+CompanyRegNo. :289892V
+GST Reg No. 000947339264
+USJ Summit, Subang (SS)
+22241 WS CUT SCISSORS
+18.00
+SS
+64542 QVS TEMP0 TWEEZER
+17.90
+21434 WS BABY WIPES FRAG
+7.90
+PWP LESS 30% MAR 18
+-2.37
+95448 WATSONS BASKET
+0.00
+SUBTOTAL (QTY 4)
+RM41.43
+ROUNDING
+RM0.02
+SUBTOTAL (QTY4)
+RM41.45
+CASH
+RM51.50
+CHANGE CASH
+RM10.05
+GST SUMMARY
+Rate
+Net(RM)
+GST(RM)
+Total(RM)
+$6,00%39.09
+2.34
+41.43
+******************************************
+STATEMENT
+***************************************
+Loyalty acc,number
+9926016**
+Description
+Total Points
+Opening_Balance
+2264
+Earned Points
+43
+Closing Balance
+2307
+****************************************
+00440010036 25032018 13:11:54 0003 ika

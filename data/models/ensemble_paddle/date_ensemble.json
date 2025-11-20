@@ -1,0 +1,28 @@
+{
+  "field_name": "date",
+  "patterns": [
+    {
+      "pattern": "(\\d{2}[/-]\\d{2}[/-]\\d{4})",
+      "accuracy": 0.9836042636642711,
+      "regularized_accuracy": 0.6312755300545791,
+      "weight": 0.9836042636642711,
+      "confidence": 0.6312755300545791
+    },
+    {
+      "pattern": "(\\d{1,2}\\s[A-Z]{3}\\s\\d{4})",
+      "accuracy": 0.9286928258145364,
+      "regularized_accuracy": 0.6042947076383467,
+      "weight": 0.9286928258145364,
+      "confidence": 0.6042947076383467
+    },
+    {
+      "pattern": "(\\d{2}[/-]\\d{2}[/-]\\d{2})",
+      "accuracy": 0.9003328706113715,
+      "regularized_accuracy": 0.5475885959419473,
+      "weight": 0.9003328706113715,
+      "confidence": 0.5475885959419473
+    }
+  ],
+  "n_patterns": 5,
+  "min_accuracy": 0.4
+}

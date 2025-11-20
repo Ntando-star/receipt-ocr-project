@@ -1,0 +1,60 @@
+BERRY'S CAKE HOUSE
+(Co No. 315481-T) GST No. 001287233536
+No.1,
+Jln Puteri 1/6,
+Bandar Puteri,
+47100 Puchong,
+Selangor
+Dutlet:03-80626265 Careline:03-56381988
+18/04/2018 5:18:08 p
+Session:11444
+User:1
+TAX Invoice No:14551
+POS:2
+Desc & Code
+Qty
+Price
+Amount
+00014960 RAISIN ALMOND BREAD
+1,00
+4.55
+4.55
+00002493 CHEESE ROLL (4)
+1.00
+3.90
+3.90
+00002479 BUTTER ROLL (4)
+1.00
+2.80
+2.80
+Total Inclusive of Tax
+11.25
+Rounding Adjustment
+0.00
+SubTotal
+11.25
+RINGGIT M'SIA
+20.00
+Payment
+-20.00
+Change
+8.75
+Item Count
+3
+Item Total
+3
+GST Summary
+Amount
+GST
+GST 0% *
+0.00
+0.00
+GST 6%
+10.61
+0.64
+Receipt/Trx No
+14551/1582555
+All Berry's products are available
+at Berry's Outlet Only.
+customerservice@berrys.com.my
+www.berrus.com.mu

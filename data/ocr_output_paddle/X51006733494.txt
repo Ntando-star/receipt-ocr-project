@@ -1,0 +1,45 @@
+Kedai Uhat Dan Runcit CHONG HWA
+3, Jalan Perdana 5, Taman Indah Perdana,
+Kepong, 52100 KL.
+Telephone No, 03-62801198
+GST No. 001379917824
+Receipt:
+33037
+Date:
+Oct 3, 2016 12:16:25 PM
+Terminal:
+CW01
+Served by:
+Employee
+Item
+Price
+Qty
+Value
+RM33.90
+X1
+RM33.90
+Liquid Medicine
+Items count: 1
+RM33.90
+Total Sales Incl, GST @ 6%
+Cash
+RM100.00
+Tendered:
+RM66.10
+Change:
+RM31.98
+Nett of Tax:
+RM1.92
+GST @ 8%:
+RM1.92
+RM31.98
+SR
+RM0,00
+RM0.00
+Standard Rated Tax
+RMO.00
+RMO.00
+ZR
+RMO.00
+RMO,00
+Zero Rated Tax (ZR

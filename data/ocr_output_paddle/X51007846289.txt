@@ -1,0 +1,59 @@
+MOONLIGHT CAKE HOUSE SDN BHD 862725-U
+(GST Reg No: 001559298048)
+. No.1, Jalan Permas 10/5, Bandar Baru Permas Jaya
+81750 Johor Bahru, Johor. Te1 No. : 07-387 3322
+www.moonlightcake.com
+Table
+: Counter
+Invoice No: SP-nu11-18/06/07-1017888
+Date
+: 07/06/2018 18:17:39
+Payment Type: Cash
+Member Number:3000000100068587
+TAKE AWAY
+T-Dark Seed Grain Bread *#
+1
+RM4.15 ST
+Discount
+RM-0.20
+T-Green Tea Mochi *#
+1
+RM3.30 ST
+Discount
+RM-0.16
+T-Honey Walnut *#
+1
+RM3.70 ST
+Discount
+RM-0.18
+T-Saha Bread *#
+1
+RM4.60 ST
+Discount
+RM-0.23
+Total (Incl GST, 0%)
+RM14.98
+Rounding
+RM0.02
+Grand Tota1RM15.00
+Total Paid
+RM20.00
+Change
+RM5.00
+Discount Summary
+Discount
+RM0.77
+GST Summary
+GST Summary
+Item
+Amount(RM)
+GST(RM)
+ST = 0%
+4
+14.98
+0.00
+NS = 0%
+0
+0.00
+0.00
+07/06/2018 18:17:39

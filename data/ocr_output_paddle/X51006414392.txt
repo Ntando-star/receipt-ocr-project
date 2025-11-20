@@ -1,0 +1,48 @@
+DI HUAN YA RESTAURANT
+Company Reg.No: JM0681589-W
+5,JALAN PERMAS 10/5,
+BANDAR BARU PERMAS JAYA,
+81750 JOHOR BAHRU,JOHOR
+TEL/FAX:07-3886322
+[ GST ID : 001914093568]
+Table
+TAX INVOICE
+TA3
+Inv No : 199977
+Cashier: c001-
+Date :
+07/04/2018 - 18.10:59
+Qty
+Description
+Total (RM) Tax
+1
+106
+33.00 SR
+#TAKE AWAY#
+ROASTED DUCK WITH CHINESE
+HERB (HALF)
+Total Sales Amount
+33.00
+GST 6%
+1.98
+Rounding Adjustment
+0.02
+TOTAL
+35.00
+CASH
+55.00
+Change Returned
+20.00-
+Item Count : 1
+GST Summary
+Amount (RM)
+Tax(RM)
+SR = 6%
+33.00
+1.98
+Thank You!
+Please Come Again
+Goods Sold Are Not Returnable!
+Closed by - c001-
+07/04/2013-18:11:05
+-- [ POSWAY - MYTH POS SOLUTION ] --

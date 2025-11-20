@@ -1,0 +1,56 @@
+MRT
+aperatad by
+raaplidKL
+TAX INVOICE
+RAPID RAIL SCU BHD
+NO.1 JALAN PJU IA/4B,
+OFF JALAN LAPANGAN TERBANG SUBANG
+PETALING JAYA SELANGOR 47301
+GST Reg. No : 001345261568
+OTP Sale receipt
+TSC : 22MG00SUBS---11002
+Agent ID : 114500
+SHIFT ID : 38599
+Transaction : 89
+Date : 18/06/2018 08:18.00
+Description
+Quantity Amount
+Tax
+(RM)
+code
+Media nb
+3097352783
+Balance before
+RM 1.90
+Balance after
+RM31.40
+TNG Reload RM 30
+1
+RM 29.50
+ES
+Reload Fee
+1
+RM 0.50
+SR
+Total
+RM 30.00
+Rounding
+RM0.00
+Including GST
+RM0.00
+GST Summary
+Arount
+GST
+SR=GST 0.00%:
+RM 0.50
+RM 0.00
+ES=GST 0.00%
+RM 29.50
+RM 0.00
+Payment mode
+Amount
+Cash
+RM 30.00
+AkxA
+Please retain receipt for reference
+JK

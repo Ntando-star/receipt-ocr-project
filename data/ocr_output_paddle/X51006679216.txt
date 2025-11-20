@@ -1,0 +1,70 @@
+FACE TO FACE NOODLE HOUSE
+FTOF NOODLE HOUSE
+(002049088-U)
+No.25, Jalan Metro Perdana Barat 2,
+Taman Usahawan Kepong, Kepong Utara,
+52100 Kuala Lumpur.
+Tel: 016-680 8777
+(GST ID: 001927782400)
+Date:
+21/05/2018Time:
+11:12:56AM
+INV No: 443181
+Table:
+12-Dine In
+Counter: C1
+Staff:
+T.Y. / JAMES LELE
+Description
+Tax
+Unit Price
+Unit Discount
+Amount
+Code
+711-Omega Half Boiled Egg
+RM 3.20
+1
+0.00
+RM3.20SR
+706-Toasted Bread (Homemade Kaya)
+RM 4.30
+1
+0.00
+RM4.30 SR
+837-Honey Lemon (Hot)
+RM 3.90
+1
+0.00
+RM3.90 SR
+838-Honey Lemon (Cold)
+RM 4.20
+1
+0.00
+RM4.20SR
+2022-House Specialty Hot & Spicy
+Pan Mee (Dry) (b)
+RM 8.00
+1
+0.00
+RM8.00 SR
+2021-House Specialty Hot & Spicy
+Pan Mee (Dry) (a)
+RM 8.00
+1
+0.00
+RM8.00SR
+Qty:
+6
+Total Amount:
+RM31.60
+Discount:
+RM0.00
+After Discount:
+RM31.60
+Cent Rounding:
+RM0.00
+Total Sales:
+RM31.60
+Loo
+GST Summary Excl Amount(RM)
+Tax(RM)

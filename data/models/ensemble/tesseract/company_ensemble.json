@@ -1,0 +1,42 @@
+{
+  "field_name": "company",
+  "patterns": [
+    {
+      "pattern": "\\bSUNFISH\\b",
+      "accuracy": 1.0,
+      "regularized_accuracy": 0.89,
+      "weight": 1.0,
+      "confidence": 0.89
+    },
+    {
+      "pattern": "\\bROYALTEA\\b",
+      "accuracy": 1.0,
+      "regularized_accuracy": 0.88,
+      "weight": 1.0,
+      "confidence": 0.88
+    },
+    {
+      "pattern": "\\bPAPPARICH\\b",
+      "accuracy": 0.8181818181818182,
+      "regularized_accuracy": 0.6881818181818182,
+      "weight": 0.8181818181818182,
+      "confidence": 0.6881818181818182
+    },
+    {
+      "pattern": "\\bDOMINO'S\\b",
+      "accuracy": 0.7272727272727273,
+      "regularized_accuracy": 0.6072727272727273,
+      "weight": 0.7272727272727273,
+      "confidence": 0.6072727272727273
+    },
+    {
+      "pattern": "\\bPROSPER\\b",
+      "accuracy": 0.7,
+      "regularized_accuracy": 0.59,
+      "weight": 0.7,
+      "confidence": 0.59
+    }
+  ],
+  "n_patterns": 5,
+  "min_accuracy": 0.6
+}

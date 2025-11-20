@@ -1,0 +1,44 @@
+Tax Invoice
+FLORISM DE ART (940075-X)
+LOT 2.70.00, LEVEL 2,
+PAVILION KUALA LUMPUR,
+168, JALAN BUKIT BINTANG,
+55100 KUALA LUMPUR, MALAYSIA.
+Tel : 03-2142 3855
+GST Reg.: 000397606912
+Document No. :
+T01005445
+Date :
+14/01/2018 05:03:35 PM
+Debtor :
+Member :
+Promoter :
+Terminal :
+T01
+Cashier :
+ADMIN
+DESC
+U. PRICE
+Disc
+AMOUNT TAX
+QTY
+RM
+RM CODE
+OPEN
+1 NO
+750.00
+750.00 SR
+Sub Total (Exclusive GST) :
+707.55
+GST 6% :
+42.45
+Rounding Adj. :
+0.00
+Rounded Total (RM):
+750.00
+Credit Card
+750.00
+GST Summary
+Amount(RM)
+Tax(RM)
+SP @ 6.9

@@ -1,0 +1,35 @@
+{
+  "field_name": "total",
+  "patterns": [
+    {
+      "pattern": "(?i)TOTAL[:\\s]*([0-9]+[.,][0-9]{2})",
+      "accuracy": 0.806805777468238,
+      "regularized_accuracy": 0.20533384261232246,
+      "weight": 0.806805777468238,
+      "confidence": 0.20533384261232246
+    },
+    {
+      "pattern": "(?i)GRAND TOTAL[:\\s]*([0-9]+[.,][0-9]{2})",
+      "accuracy": 0.85,
+      "regularized_accuracy": 0.19574999999999998,
+      "weight": 0.85,
+      "confidence": 0.19574999999999998
+    },
+    {
+      "pattern": "(?i)AMOUNT[:\\s]*([0-9]+[.,][0-9]{2})",
+      "accuracy": 0.6604683195592287,
+      "regularized_accuracy": 0.036548423756725845,
+      "weight": 0.6604683195592287,
+      "confidence": 0.036548423756725845
+    },
+    {
+      "pattern": "(?:RM|\\$)?\\s*([0-9]+[.,][0-9]{2})",
+      "accuracy": 0.5042518682430317,
+      "regularized_accuracy": 0.0,
+      "weight": 0.5042518682430317,
+      "confidence": 0.0
+    }
+  ],
+  "n_patterns": 5,
+  "min_accuracy": 0.4
+}

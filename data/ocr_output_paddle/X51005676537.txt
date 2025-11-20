@@ -1,0 +1,65 @@
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS,
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL : 03-40210276
+GST ID : 000750673920
+SIMPLIFIED TAX INVOICE
+CASH
+Doc No.
+CS00012518
+Date:03/01/2018
+Cashier
+USER
+Time
+13:0400
+Salesperson
+Ref.:
+Item
+Qty
+S/Price
+Amount
+Tax
+1539
+1
+90.10
+90.10
+SR
+5LT BIG TREE HIGH GLOSS PAINT
+1611
+1
+4.24
+4.24
+SR
+THINNER BOTTLE
+Total Qty.
+2
+94.34
+Total Sales (Excluding GST)
+89.00
+Discount
+0.00
+Total GST:
+5.34
+Rounding
+0.00
+Total Sales (Inclusive of GsT):
+94.34
+CASH :
+94.34
+Change :
+0.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Tax(RM)
+SR
+6
+89.00
+5.34
+Total :
+89.00
+5.34
+GOODS SOLD ARE NOT RETL

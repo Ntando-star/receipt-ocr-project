@@ -1,0 +1,41 @@
+RESTAURANT JIAWEI
+JIAWEI HOUSE
+002693074-K
+13, JLN TASIK UTAMA 8
+MEDAN NIAGA DAMAI SG BESI
+57000 KL
+INVOICE
+Invoice :13834
+Cashier:admin
+POSNo:1
+Date : 11/5/2018 13:14:32
+Table
+T. AWAY
+"
+1
+ITEM
+QTY
+U/P(RM)
+DISC()
+An L (RM)
+Butter Cream Chicken Rice
+3
+9.00
+0.00
+Sub Total Before Discount
+RM 27,00
+Service Charge
+RM 000
+Total Sales
+RM 27.00
+RoundingAdjustment :
+RM 0.00
+TOTAL
+RM
+27.00
+CASH
+RM
+50.00
+CHANGE
+RM
+23.00

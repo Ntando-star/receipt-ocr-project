@@ -1,0 +1,58 @@
+MAONRNEU
+BEMED (SP) SDN. BHD.
+No.49, Jalan Dinar G U3/G,
+Subang Perdana,
+40150 Shah Alam, Selangor D.E.
+03-7845 8155
+GST R0g : 001734164480
+CASH RECEIPT
+CB# : 59581331715
+14AMay/2017 02:56:39
+Cashler : mimle ()
+Qty
+Code&Desc
+Price
+Total
+PIL CHI-KIT TECK AUN (12'S)
+SR
+1 160160
+-1.58
+15.80
+14.22
+PANADOL ACTIFAST 20'S
+ZRL
+1 458140
+12.00
+12.00
+ALPHA LIPID LIFE LINE
+SR
+1 184810
+165.00
+165.00
+3
+Type:
+3
+SubTotal:
+191.22
+Rounding Adj :
+-0.02
+Total Inclusive GST:
+191.20
+VISA
+191.20
+OK
+GST Summary:
+Amount
+Tax
+(MYR)
+(MYR)
+-
+SR
+169.08
+10.14
+ZRL
+12.00
+0.00
+ONG GUAT CHYE
+Polnts : 1,305
+Thank you.

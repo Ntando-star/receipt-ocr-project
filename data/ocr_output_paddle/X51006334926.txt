@@ -1,0 +1,40 @@
+Your order number is
+264
+Golden Arches Restaurants Sdn Bhd
+(65351-M)
+Level 6, Bangunan TH, Damansara Uptown3
+No.3, Jalan SS21/39,47400 Petaling Jaya
+Selangor
+(GST ID No: 000504664064)
+McDonald's Kota Damansara DT(#178)
+Tel No. 03-6156-2180
+TAX INVOICE
+MFY Side 1
+INV# 001780200112117
+ORD #64 -REG #2- 25/12/2016 13:51:47
+QTY ITEM
+TOTAL
+2 L FiletOFish
+21.18
+2 L Coke
+NO Ice
+2 L Fries
+16Nuggets
+7.10
+1 Barbecue Sauce
+1 Small Cone
+1.00
+Eat-In Total (incl GST)
+29.28
+Rounding Adjust
+0.02
+Total Rounded
+29.30
+Cash Tendered
+50.00
+Change
+20.70
+TOTAL INCLUDES 6% GST
+1.66
+Thank You and Please Come Again.
+Customer Service Hot line : 03-2725-5600

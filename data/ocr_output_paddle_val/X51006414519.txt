@@ -1,0 +1,52 @@
+HASHA PETRCKIOSK
+Conpany No: JM0632980-V
+Lot PTó 198718 Tnn Sierra P
+81750 Masai Johor
+Site:2591
+Telephone: 073000190
+GST No: 000908345344
+>>>>>>> Receipt <<<<<<<
+Invoice nunber 60000437782
+22.73 litre Punp # 02
+FuelSave 95
+RM
+50.00 C
+2.200 RM
+/litre
+Total
+RM
+50.00
+Cash
+RM
+50.00
+Relief GST
+C RM
+0.00
+Total Cross
+C RM
+50.00
+2018-04-06 17:36:35
+Custoner Copy
+Terminal ID:
+84259112
+ID/STAN:
+274961/000000
+Entry Mode:
+MSR/1
+Card:
+Attendant Tag Card
+XXXXxXXXx0053
+Response:
+000 APPROVED
+****************
+Attendant:
+MRifan
+Date
+Time Num
+OPT
+06/04/18 17:36 41766 02
+Diesel & Petrol RoN95
+given Relief under Section
+56 3) (b) GST Act 2014
+Thank you
+Please come again

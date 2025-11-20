@@ -1,0 +1,42 @@
+{
+  "field_name": "address",
+  "patterns": [
+    {
+      "pattern": "\\bUERO,SHAH\\b",
+      "accuracy": 0.5625,
+      "regularized_accuracy": 0.4325,
+      "weight": 0.5625,
+      "confidence": 0.4325
+    },
+    {
+      "pattern": "\\bNO7,JLN\\b",
+      "accuracy": 0.4666666666666667,
+      "regularized_accuracy": 0.3566666666666667,
+      "weight": 0.4666666666666667,
+      "confidence": 0.3566666666666667
+    },
+    {
+      "pattern": "\\bPT17920\\b",
+      "accuracy": 0.4375,
+      "regularized_accuracy": 0.3275,
+      "weight": 0.4375,
+      "confidence": 0.3275
+    },
+    {
+      "pattern": "\\bMACALISTER\\b",
+      "accuracy": 0.3389830508474576,
+      "regularized_accuracy": 0.1989830508474576,
+      "weight": 0.3389830508474576,
+      "confidence": 0.1989830508474576
+    },
+    {
+      "pattern": "\\bGUARDIAN\\b",
+      "accuracy": 0.2909090909090909,
+      "regularized_accuracy": 0.1709090909090909,
+      "weight": 0.2909090909090909,
+      "confidence": 0.1709090909090909
+    }
+  ],
+  "n_patterns": 5,
+  "min_accuracy": 0.6
+}

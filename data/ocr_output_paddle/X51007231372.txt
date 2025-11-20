@@ -1,0 +1,49 @@
+Global Food Empire Sdn Bhd
+Lemon Tree Restaurant
+No. 27, Jalan Austin Height 8/4,
+Taman Mount Austin,
+81100 Johor Bahru.
+Tel: 07-361 5965
+GST NO : 001750249472
+Current Tax Invoice
+Invoice.No: P0So15026
+Date: 2018-05-01 19:34:09
+Transaction by: Izzah
+Table: 5
+Pax: 3
+No Description
+Amt (RM) Code
+1 602 Green Apple Juice (S)
+6.80
+SR
+1 106 Ham & Cheese Grilled
+Chicken
+16.80
+SR
+*F. Macaroni Bolognese
+G. Coleslaw
+1 205 Mee Mamak
+9.80
+SR
+*Ice Lemon Tea (S)
+2.80
+SR
+Subtotal (3)
+36.20
+GST (6%)
+2.17
+Rounding
+-0.02
+Total
+38.35
+GST Summary
+Amount
+Tax
+SR @ GST 6%
+36.20
+2.17
+Thank You For Dining With Us
+Powered by SoftwareLab S/B.
+Call Lee HB 0127044193 for mode detail.
+Powered by Genius POS
+www.geniuspos.com.my

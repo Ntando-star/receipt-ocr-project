@@ -1,0 +1,63 @@
+:
+The Cut Steakhouse &Burgers
+iot L1-4 Star Avenue Mall
+Ja lan Zuhal U5/179 Seksyen U5
+Pusat Komersial Arena Bintang
+40150 Shah Alam, Selangor
+Tel : 03-78316111
+(GST Reg. No : 000974557184)
+Tax Invoice
+30
+INV No.:
+507684
+Pax(s):
+4
+Date
+: 01-01-2017
+21:14:17
+Cashier:
+Sham
+Cescription
+Qty
+U.price
+lotal TAX
+Beet Steak Escalope
+2
+X
+37.50
+75.00
+SR
+Chicken Dome
+1
+×
+27.50
+27.50
+SF
+Tender loin
+1
+X
+43.50
+43.50
+SF
+WARM WATER
+4
+×
+1.50
+6.00
+SR
+.'
+lotal QTY:
+8
+Total{Excluding GST
+158.08
+GST payable (6x):
+9.48
+Total(Inclusive
+167.56
+Rounding Adj:
+-0.01
+TOTAL:
+167.55
+OED
+4°
+6.08

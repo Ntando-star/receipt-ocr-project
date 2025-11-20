@@ -1,0 +1,68 @@
+IDEAL MENU GROUP SDN BHD
+(1143655-H)
+31,31A, JALAN HANG TUAH 9,
+TAMAN SKUDAI BARU,
+81300 SKUDAI,
+JOHOR
+GST ID : 001707421696
+TAX INVOICE
+Receipt #:
+CS10031697
+Table:
+10
+Staff:
+Date:
+10/06/2018
+Cashier:
+SM CASHIER
+Time:
+16:23:00
+Description
+Qty
+Price
+Amt
+Tax
+A1 LO BAK RICE - SET
+1
+1200
+12.00
+SR
+BUBBLE GREEN TEA
+1
+0.00
+0.00
+SR
+Total:
+2
+12.00
+Total Sales (Excluding GST
+12.00
+Discourt
+0.00
+Service Charge :
+0.00
+Total GST :
+0.00
+Rounding :
+0.00
+Total Sales (Inclusive of GST)
+12.00
+CASH
+20.00
+CHANGE
+8.00
+GST SUMMARY
+Tax Code
+%
+Amt (RM)
+Tax(RM)
+SRO
+0
+12.00
+0.00
+Total :
+12.00
+0.00
+# indicated this tax code belong to service
+charges.
+THANK YOU. PLEASE COME AGAIN I!

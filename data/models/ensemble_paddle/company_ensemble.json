@@ -1,0 +1,21 @@
+{
+  "field_name": "company",
+  "patterns": [
+    {
+      "pattern": "\\bPAPPARICH\\b",
+      "accuracy": 0.8181818181818182,
+      "regularized_accuracy": 0.6881818181818182,
+      "weight": 0.8181818181818182,
+      "confidence": 0.6881818181818182
+    },
+    {
+      "pattern": "\\bSTOOGES\\b",
+      "accuracy": 0.7,
+      "regularized_accuracy": 0.59,
+      "weight": 0.7,
+      "confidence": 0.59
+    }
+  ],
+  "n_patterns": 5,
+  "min_accuracy": 0.4
+}

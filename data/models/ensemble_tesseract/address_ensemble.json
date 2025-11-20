@@ -1,0 +1,21 @@
+{
+  "field_name": "address",
+  "patterns": [
+    {
+      "pattern": "\\bRAMPAI\\b",
+      "accuracy": 0.4717741935483871,
+      "regularized_accuracy": 0.34855131373569204,
+      "weight": 0.4717741935483871,
+      "confidence": 0.34855131373569204
+    },
+    {
+      "pattern": "\\bSS4C/5,PETALING\\b",
+      "accuracy": 0.4379795396419437,
+      "regularized_accuracy": 0.2479764735317011,
+      "weight": 0.4379795396419437,
+      "confidence": 0.2479764735317011
+    }
+  ],
+  "n_patterns": 5,
+  "min_accuracy": 0.4
+}

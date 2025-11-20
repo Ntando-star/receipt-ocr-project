@@ -1,0 +1,47 @@
+TAX INVOICE
+BHPetrol Permas Jaya 2
+LOT PTD 101051
+Jalan Permas 10/10
+81750 Masai, Johor
+Esjay Fuel Enterprise
+CO. REG. NO: 001011128-T
+GST REG. NO: 000153358336
+30-06-2018 09:09:49
+Cashier: 465
+Invoice No: 1-642195
+Prepay Chit Number: 12091
+Item
+U\Price
+Qnty Amount
+Inf RON95
+P3
+2.200
+22.73
+50.00 R
+TOTAL SALES
+RM
+50.00
+ROUNDING ADJ
+RM
+0.00
+TOTAL AMOUNT PAYABLE
+RM
+50.00
+CASH
+RM
+50.00
+Prepay Deposit
+RM
+50.00
+Prepay Refund
+RM
+0.00
+GST SUMMARY
+Amount RM
+Tax RM
+R: Relief*
+50.00
+0.00
+*Relief under Section 56(3)(b)GST Act 2014
+Thank You For Shopping At BHPetromart
+Customer Service 1-300-22-2828

@@ -1,0 +1,50 @@
+One one three seafood restaurant sdn Bho
+(1120908-M)
+NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM
+43800 DENGKIL, SELANGOR.
+(GST Reg. No : 000670224384)
+Tax Invoice
+Table 37
+Bill#:V001-540417
+Order#: 140523
+Date
+: 15-06-2018 11:35:35
+Cashier: 113 CASHIER
+Pax(s):
+0
+Qty
+Description
+Total TAX
+0 120.00 SR
+Cat Fish Item
+D
+18.00 SR
+Vege item
+D
+5,50 SR
+1
+White Rice
+D
+5.00 SR
+1
+Beverage
+148.50
+Total (Excluding GST):
+148.50
+Total (Inclusive of GST):
+148.50
+TOTAL:
+15-06-2018
+08:44
+Closed: 1
+Server: 113 CASHIER
+CASH :
+148.50
+GST Summary
+Amount (RM)
+Tax(RM)
+(@ 0%)
+148.50
+0.00
+SR
+**** Thank You ****

@@ -1,0 +1,38 @@
+Receipt # ©s0048e81 Table’ = 13
+
+PRINT EXPERT SDN BHD
+(989625-A)
+
+NO 18, 20, 22, JALAN BUNGA TANJONG 2/1
+
+40600 SHAH ALAM, SELANGOR
+TEL 03-55250588
+GST ID 000886677504
+_TAX INVOICE
+
+# indicated this tax code
+charges.
+
+GOODS SOLD ARE NOT RETURNABLE, ITEM NOT
+
+6,
+
+Statf ELYN Date 12/01/2018
+Cashier USER Time 16.57 00
+Doscription Qty Prico Amt Tax
+PLR COPY 8 063 424 SR |
+Total re} 424 |
+|
+folal Sales (Exciuding GST) 4.00
+Discount 0.00
+Service Charge 0.00
+fotal GST 624
+Rounding 0.01
+Total Salas (inclusive of GST) 4.25
+CASH 4.30
+CHANGE 0.05
+GSTSUMMARY
+Tax Coda e uty Tax (RM)
+SR 0.24
+
+RAL CITC warnie Tit aen 4 ‘ er monaere

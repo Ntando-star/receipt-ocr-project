@@ -1,0 +1,58 @@
+SYARIKAT KAM LAI SEONG SDN BHD (CO
+No. 95156P)
+NO. 1442, JALAN SK 11/5, SERI KEMBANGAN
+43300 SELANGOR
+TEL : 03-89486342
+FAX : 03-89586342
+GST Reg. No. :001632722944
+Insert by: admin
+Payment Type: Cash
+Date:08-03-20:8 05-01.12 PM
+Tax Invoice
+(Invoice No.: INV-37002)
+ITEM
+QTY U.PRIC
+TOTAL
+TAX
+E (RM)
+(RM)
+COD
+E
+OPEN ITEM
+2
+95.00
+190.00
+SR
+5lt Nippon
+Zinc
+Chromate
+Item Count
+2
+Total
+190.00
+Discount
+0.00
+Extra Disc (0.00%)
+0.00
+GST(6.00%)
+10.75
+Bef. Rounding
+190.00
+Rounding Adj.
+0.00
+Total Including GST
+190.00
+Tendered
+190.00
+GST summary
+Amount
+Tax
+SR(6.00%)
+179.25
+10.75
+Total:
+10.75
+Print
+: 08-Mar-18
+Cpened By
+: admin

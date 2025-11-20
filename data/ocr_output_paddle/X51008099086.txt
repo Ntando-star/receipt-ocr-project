@@ -1,0 +1,47 @@
+REstoraN WAN SHENG
+002043319-W
+No.2, Jalan Temenggung 19/9,
+Seksyen 9, Bandar Mahkota Cheras,
+43200 Cheras, Selangor
+GST REG NO: 001335787520
+Tax Invoice
+INV No.: 1216991
+Cashier: Nicole
+Date
+: 29-06-2018 16:13:05
+Description
+Qty
+U.price
+Total TAX
+Kopi O (B)
+1 x
+2.00
+2.00 ZRL
+Cham(B)
+1 x
+2.10
+2.10 ZRL
+Nescafe (B)
+1 x
+2.50
+2.50 ZRL
+Take Away
+3 x
+0.20
+0.60ZRL
+Total QTY: 6
+Total (Excluding GST):
+7.20
+Total (Inclusive of GST):
+7.20
+TOTAL:
+7.20
+CASH :
+7.20
+GST Summary
+Amount(RM)
+Tax(RM)
+ZRL
+(@ 0%)
+7.20
+0.00

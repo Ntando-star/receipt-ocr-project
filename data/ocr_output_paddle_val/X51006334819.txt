@@ -1,0 +1,46 @@
+BEMED (SP) SDN, BHD.
+No.49, Jalan Oinar G U3/G,
+Subang Perdana,
+40150 Shah Alam, Selangor D.E.
+03-7845 8155
+GST Reg : 001734164480
+CASHRECEIPT
+Cof : 70274707814
+20/Jan/2017 08:06:50
+Cashier: be ()
+Cty
+CodeaDesc
+Price
+Total
+ALPHA LIPID LIFE LINE 450MG 450G
+1 184810
+105.00
+105 3R
+DR FIT VEGE HIGH FIBER 15'SX12G
+1 282930
+33.00
+38 SR
+2
+Type:
+2
+SubTotal:
+203.00
+Rounding Adj :
+0.00
+Total Indlusive GST:
+203.00
+MASTER
+203.00
+GST Summary:
+Amount
+Tax
+{MYR}
+{MYE}
+SR.
+181.51
+11.49
+G GUAT CHYE
+Points :
+3.243
+Thank you.
+Please come aosin
